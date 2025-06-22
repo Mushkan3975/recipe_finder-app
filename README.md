@@ -6,7 +6,7 @@
 
 ## 🌐 Live Demo
 
-🔗 [View the Live App on Vercel](https://recipe-finder-app.vercel.app/)  
+🔗 [View the Live App on Vercel](https://recipe-finder-app-six.vercel.app/)  
 *Try it out and find recipes based on your ingredients!*
 
 ---
