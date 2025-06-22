@@ -16,9 +16,9 @@
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: HTML, CSS, JavaScript (or React, if applicable)  
-- **Backend/API**: [Mention if you used a public API like Spoonacular or Edamam]  
-- **Deployment**: GitHub Pages / Netlify / Vercel (if deployed)  
+- **Frontend**: HTML, CSS, JavaScript, React
+- **API**: [Edamam]  
+- **Deployment**: Vercel  
 
 ---
 
