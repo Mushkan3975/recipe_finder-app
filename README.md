@@ -4,6 +4,13 @@
 
 ---
 
+## 🌐 Live Demo
+
+🔗 [View the Live App on Vercel](https://recipe-finder-app.vercel.app/)  
+*Try it out and find recipes based on your ingredients!*
+
+---
+
 ## 🔍 Features
 
 - Ingredient-based search to find relevant recipes quickly  
@@ -16,7 +23,7 @@
 
 ## 🛠️ Tech Stack
 
-- **Frontend**: HTML, CSS, JavaScript, React
+- **Frontend**: HTML, CSS, JavaScript, React  
 - **API**: [Edamam]  
 - **Deployment**: Vercel  
 
@@ -36,3 +43,8 @@
 - Voice input for ingredient search  
 - Meal planning and grocery list integration  
 
+---
+
+## 📄 License
+
+This project is open-source and available under the [MIT License](LICENSE).
